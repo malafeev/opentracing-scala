@@ -1,1 +1,1 @@
-# opentracing-scala
+# OpenTracing API for Scala
